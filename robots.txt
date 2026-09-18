@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rajarju143.github.io/builtbyraj/sitemap.xml
